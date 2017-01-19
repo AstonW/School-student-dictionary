@@ -1,0 +1,11 @@
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\bin\Debug\School Student Dictionary.exe.config
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\obj\Debug\School Student Dictionary.vbprojResolveAssemblyReference.cache
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\obj\Debug\School_Student_Dictionary.Form1.resources
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\obj\Debug\School_Student_Dictionary.Resources.resources
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\obj\Debug\School Student Dictionary.vbproj.GenerateResource.Cache
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\obj\Debug\School Student Dictionary.xml
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\bin\Debug\School Student Dictionary.exe
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\bin\Debug\School Student Dictionary.pdb
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\bin\Debug\School Student Dictionary.xml
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\obj\Debug\School Student Dictionary.exe
+C:\Users\Aston\Desktop\School Student Dictionary\School Student Dictionary\obj\Debug\School Student Dictionary.pdb
